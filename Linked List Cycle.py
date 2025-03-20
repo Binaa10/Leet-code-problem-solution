@@ -4,5 +4,5 @@ class Solution:
         while f and f.next:
             s, f = s.next, f.next.next
             if s == f:
-                return True
+                return True 
         return False
