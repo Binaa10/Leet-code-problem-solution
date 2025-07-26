@@ -6,3 +6,4 @@ class Solution:
                 return True
             num_dict[num] = i
         return False
+
