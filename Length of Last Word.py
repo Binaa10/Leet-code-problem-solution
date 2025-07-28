@@ -7,3 +7,4 @@ class Solution:
         while j >= 0 and s[j] != ' ':
             j -= 1
         return i - j
+
