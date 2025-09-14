@@ -9,3 +9,4 @@ class Solution:
                 row[j] = res[i-1][j-1] + res[i-1][j]
             res.append(row)
         return res
+
